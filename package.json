@@ -1,20 +1,19 @@
-"name": "FanzBotAnon",
+{
+  "name": "tel_bot_real",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ChatBot.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "grammy": "^1.14.1"
+  }
+}
 
-5    "description": "",
-6    "scripts": {
-7        "build": "echo \"No build specified\" && exit 1",
-8        "test": "echo \"No test specified\" && exit 1",
-9        "start": "node index.js"
-10    },
-11    "repository": {
-12        "type": "git",
-13        "url": "git+https://github.com/Fanz1234/FanzBotAnon.git"
-14    },
-15    "author": "",
-16    "license": "ISC",
-17    "bugs": {
-18        "url": "https://github.com/Fanz1234/FanzBotAnon/issues"
-19    },
-20    "homepage": "https://github.com/Fanz1234/FanzBotAnon#readme"
-21}
-22 
